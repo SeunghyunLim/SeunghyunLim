@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Robotics Engineer
 - Ph.D course student at DGIST BRM lab. Interested in Mobile robotics, Autonomous driving.
 
@@ -6,7 +5,6 @@
 - Autonomous driving for mobile robots
 - Local path planning(motion planning)
 - Global path planning
-- Path tracking algorithms
 - ROS based system integration
 - Biomimetic mobile robots
 
