@@ -1,4 +1,4 @@
-### Robotics Engineer
+### 🤖Robotics Engineer
 - Ph.D course student at DGIST BRM lab. Interested in Mobile robotics, Autonomous driving.
 
 ### Interest
