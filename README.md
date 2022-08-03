@@ -16,6 +16,6 @@
 - ROS based system integration
 - Biomimetic mobile robots
 
-![Seunghyun's Github stats](https://github-readme-stats.vercel.app/api?username=SeunghyunLim&show_icons=true&theme=radical)
+![Seunghyun's Github stats](https://github-readme-stats.vercel.app/api?username=SeunghyunLim&show_icons=true&theme=vue-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeunghyunLim&langs_count=8&layout=compact)](https://github.com/SeunghyunLim/github-readme-stats)
